@@ -1573,7 +1573,7 @@ a {
   }
   .certificate img {
     width: 90%;
-    height: 20em;
+    height: 22em;
   }
 }
 
@@ -1707,6 +1707,9 @@ a {
     -ms-flex: 0 0 50%;
     flex: 0 0 100%;
     max-width: 100%;
+  }
+  .certificate .caption {
+    font-size: 2rem;
   }
 }
 
