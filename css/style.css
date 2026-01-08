@@ -82,9 +82,14 @@ ol {
   color: #2f4f4f;
 }
 
+em,
+strong {
+  color: #2f4f4f;
+}
+
 span {
   font-size: 18px;
-  color: #666;
+  color: #211f1f;
 }
 
 h1,
